@@ -12,7 +12,7 @@ Create a timed coding quiz with mutiple choice questions.  This app will run in 
 * Store highscore in local storage and load input when 'View high scores' link is clicked
 
 Screenshot 
-![Code Quiz Mockup](https://courses.bootcampspot.com/courses/324/files/283747/download)
+![Code Quiz Mockup](https://raw.githubusercontent.com/veta583518/CodeQuiz/main/assets/images/Code%20Quiz%20mockup.gif)
 
 Link to deployed repository
 [https://veta583518.github.io/CodeQuiz/](https://veta583518.github.io/CodeQuiz/) 
